@@ -13,3 +13,6 @@
 [submodule "cookbooks/java"]
 	path = cookbooks/java
 	url = https://github.com/acfreitas/java.git
+[submodule "cookbooks/chef-sugar"]
+	path = cookbooks/chef-sugar
+	url = https://github.com/sethvargo/chef-sugar.git
