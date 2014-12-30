@@ -16,3 +16,6 @@
 [submodule "cookbooks/chef-sugar"]
 	path = cookbooks/chef-sugar
 	url = https://github.com/sethvargo/chef-sugar.git
+[submodule "cookbooks/gradle"]
+	path = cookbooks/gradle
+	url = https://github.com/acfreitas/gradle.git

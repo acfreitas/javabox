@@ -16,7 +16,7 @@ This project automates the setup of a development and testing environment for Ja
     $ cd javabox
     $ vagrant up
 
-P.S. Use git clone --recursive for clone git submodules.
+P.S. Use git clone --recursive for clone [git submodules](http://git-scm.com/docs/git-submodule).
 
 ## The Box contains
 

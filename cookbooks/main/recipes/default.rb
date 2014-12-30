@@ -24,3 +24,4 @@ node.set['postgresql'] = {
 
 include_recipe 'postgresql::server'
 include_recipe 'java'
+include_recipe 'gradle'
